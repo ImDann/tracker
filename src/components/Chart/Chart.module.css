@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    justify-content: center;
+    width: 75%;
+}
+
+.bar {
+    size: 100%;
+}

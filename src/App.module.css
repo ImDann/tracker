@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+p {
+    color: aliceblue;
+    display: inline;
+}
+
+header{
+    text-align: center;
+    color: rgb(49, 219, 211);
+}
